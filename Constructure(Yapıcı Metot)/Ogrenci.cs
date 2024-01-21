@@ -29,6 +29,10 @@ namespace Constructure_Yapıcı_Metot_
 
         public Ogrenci()
         {
+
+            //Default Ctor
+
+            // Ctor içerisinde nessneye ait değişkenlere değer ataması gerçekleştiğinde bu değerler nesne ilk oluşturulurken belleğe çıkar
             Name = "Ahmet";
             Soyad = "Gümüş";
                 

@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinifveNesneKavrami", "SinifveNesneKavrami\SinifveNesneKavrami.csproj", "{355378ED-11CD-4499-AA6C-518CED2A0CC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SinifveNesneKavrami", "SinifveNesneKavrami\SinifveNesneKavrami.csproj", "{355378ED-11CD-4499-AA6C-518CED2A0CC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenSeviyeleri", "DegiskenSeviyeleri\DegiskenSeviyeleri.csproj", "{3C3D6981-62A5-48F4-BE4B-3B1A21B3D0FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegiskenSeviyeleri", "DegiskenSeviyeleri\DegiskenSeviyeleri.csproj", "{3C3D6981-62A5-48F4-BE4B-3B1A21B3D0FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsolution\Encapsulation.csproj", "{0FA81020-4226-4406-A1AF-E4A50DDE1BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsolution\Encapsulation.csproj", "{0FA81020-4226-4406-A1AF-E4A50DDE1BE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructure(Yapıcı Metot)", "Constructure(Yapıcı Metot)\Constructure(Yapıcı Metot).csproj", "{9FA20D0D-BD44-439A-BEA4-C5FA51853F4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructure(Yapıcı Metot)", "Constructure(Yapıcı Metot)\Constructure(Yapıcı Metot).csproj", "{9FA20D0D-BD44-439A-BEA4-C5FA51853F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructure(OverLoad)", "Constructure(OverLoad)\Constructure(OverLoad).csproj", "{7A0BC5ED-A0E6-401A-818C-F828056122B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructure(Yönlendirme)", "Constructure(Yönlendirme)\Constructure(Yönlendirme).csproj", "{3182CEF1-0941-4066-9829-232710DAB837}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{9FA20D0D-BD44-439A-BEA4-C5FA51853F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FA20D0D-BD44-439A-BEA4-C5FA51853F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FA20D0D-BD44-439A-BEA4-C5FA51853F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0BC5ED-A0E6-401A-818C-F828056122B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0BC5ED-A0E6-401A-818C-F828056122B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0BC5ED-A0E6-401A-818C-F828056122B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0BC5ED-A0E6-401A-818C-F828056122B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3182CEF1-0941-4066-9829-232710DAB837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3182CEF1-0941-4066-9829-232710DAB837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3182CEF1-0941-4066-9829-232710DAB837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3182CEF1-0941-4066-9829-232710DAB837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

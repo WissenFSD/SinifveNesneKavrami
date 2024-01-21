@@ -18,6 +18,7 @@ namespace Encapsulation
         public string Name { get; } = "Test";
 
 
-     
+        public string Flag { get; set; }
+
     }
 }

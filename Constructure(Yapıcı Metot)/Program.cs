@@ -6,8 +6,18 @@
         {
 
             Ogrenci o = new Ogrenci();
-            Console.WriteLine(o.Name);
-            Console.WriteLine(o.Soyad);
+            o.Name = "Ahmet";
+            o.Soyad = "Işık";
+
+
+            Ogrenci o2 = new Ogrenci();
+            o2.Name = "Kerem";
+            o2.Soyad = "Aras";
+
+           
+
+
+
         }
     }
 }
